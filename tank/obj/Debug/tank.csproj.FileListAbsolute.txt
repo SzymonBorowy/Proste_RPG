@@ -1,0 +1,45 @@
+c:\users\borowy\documents\visual studio 2015\Projects\tank\tank\bin\Debug\tank.exe.config
+c:\users\borowy\documents\visual studio 2015\Projects\tank\tank\bin\Debug\tank.exe
+c:\users\borowy\documents\visual studio 2015\Projects\tank\tank\bin\Debug\tank.pdb
+c:\users\borowy\documents\visual studio 2015\Projects\tank\tank\obj\Debug\tank.csprojResolveAssemblyReference.cache
+c:\users\borowy\documents\visual studio 2015\Projects\tank\tank\obj\Debug\tank.Form1.resources
+c:\users\borowy\documents\visual studio 2015\Projects\tank\tank\obj\Debug\tank.Properties.Resources.resources
+c:\users\borowy\documents\visual studio 2015\Projects\tank\tank\obj\Debug\tank.csproj.GenerateResource.Cache
+c:\users\borowy\documents\visual studio 2015\Projects\tank\tank\obj\Debug\tank.exe
+c:\users\borowy\documents\visual studio 2015\Projects\tank\tank\obj\Debug\tank.pdb
+G:\tank\tank\bin\Debug\tank.exe.config
+G:\tank\tank\obj\Debug\tank.exe
+G:\tank\tank\obj\Debug\tank.pdb
+G:\tank\tank\bin\Debug\tank.exe
+G:\tank\tank\bin\Debug\tank.pdb
+G:\tank\tank\obj\Debug\tank.csprojResolveAssemblyReference.cache
+G:\tank\tank\obj\Debug\tank.Form1.resources
+G:\tank\tank\obj\Debug\tank.Properties.Resources.resources
+G:\tank\tank\obj\Debug\tank.csproj.GenerateResource.Cache
+G:\tank\tank\obj\Debug\tank.Form2.resources
+F:\tank\tank\bin\Debug\tank.exe.config
+F:\tank\tank\obj\Debug\tank.exe
+F:\tank\tank\obj\Debug\tank.pdb
+F:\tank\tank\bin\Debug\tank.exe
+F:\tank\tank\bin\Debug\tank.pdb
+F:\tank\tank\obj\Debug\tank.csprojResolveAssemblyReference.cache
+F:\tank\tank\obj\Debug\tank.Form1.resources
+F:\tank\tank\obj\Debug\tank.Form2.resources
+F:\tank\tank\obj\Debug\tank.Properties.Resources.resources
+F:\tank\tank\obj\Debug\tank.csproj.GenerateResource.Cache
+F:\tank\tank\obj\Debug\tank.Form3.resources
+C:\Users\Szymon\Desktop\z pena\tank\tank\bin\Debug\tank.exe.config
+C:\Users\Szymon\Desktop\z pena\tank\tank\obj\Debug\tank.exe
+C:\Users\Szymon\Desktop\z pena\tank\tank\obj\Debug\tank.pdb
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\tank\tank\bin\Debug\tank.exe.config
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\tank\tank\bin\Debug\tank.exe
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\tank\tank\bin\Debug\tank.pdb
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\tank\tank\obj\Debug\tank.csprojResolveAssemblyReference.cache
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\tank\tank\obj\Debug\tank.Form1.resources
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\tank\tank\obj\Debug\tank.Form2.resources
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\tank\tank\obj\Debug\tank.Form3.resources
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\tank\tank\obj\Debug\tank.Properties.Resources.resources
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\tank\tank\obj\Debug\tank.csproj.GenerateResource.Cache
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\tank\tank\obj\Debug\tank.csproj.CoreCompileInputs.cache
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\tank\tank\obj\Debug\tank.exe
+D:\Pliki Stare\pulpit\szkoła\programowanie\z pena\C#\tank\tank\obj\Debug\tank.pdb
